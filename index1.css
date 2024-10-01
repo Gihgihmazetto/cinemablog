@@ -1,0 +1,50 @@
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+p {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(152, 14, 143);
+    color: white;
+    margin: 20px 0;
+}
+
+#inicio {
+    background-color: rgb(152, 14, 143);
+    padding: 10px;
+    text-align: center;
+    margin: 26%;
+    margin-top: 7%;
+    border-radius: 4px;
+    border: 1px solid rgb(152, 14, 143);
+    color: aliceblue;
+}
+
+li {
+    color: aliceblue;
+}
+
+body {
+    background-color: rgba(232, 129, 244, 0.844);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div-cabecalho {
+    width: auto;
+    height: auto;
+    background-color: rgb(105, 39, 105);
+    margin: 50px 0;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+    background-color: rgb(105, 39, 105);
+    color: white;
+}
